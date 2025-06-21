@@ -6,3 +6,8 @@ npm install truffle-hdwallet-provider
 
 truffle compile
 
+truffle migrate --network rinkeby 
+
+npm install loom-truffle-provider
+
+truffle migrate --network loom_testnet
